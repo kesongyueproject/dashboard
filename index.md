@@ -25,20 +25,16 @@
   - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/08-03-relationship-between-ECB-framework-directory-design-logic-archit)
   - 8.4 [部署文档](08-04-deployment-doc.md)
 - X1 meet_recording
-  - [Inception meeting (2018/03/23)](X1-inception-meeting.md)
-  - [Iteration 1 meeting (2018/04/09)](X1-iteration1-meeting.md)
-  - [Iteration 2 meeting (2018/05/09)](X1-iteration2-meeting.md)
-  - [Iteration 3 meeting (2018/06/30)](X1-iteration3-meeting.md)
-- [X2 Tech/Work Report](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X2-techwork-report)
-- X3 Final Report
+  - [Inception meeting (2019/03/26)](X1-inception-meeting.md)
+  - [Iteration 1 meeting (2019/04/19)](X1-iteration1-meeting.md)
+  - [Iteration 2 meeting (2019/05/09)](X1-iteration2-meeting.md)
+  - [Iteration 3 meeting (2019/06/10)](X1-iteration3-meeting.md)
+- X2 [KANBAN](X2-KANBAN.md)
+- X3 [auditing-records](X3-auditing-records.md)
+- [X4 Tech/Work Report](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X2-techwork-report)
+- X5 Final Report
   - [16340100-liusha0226](16340100_Final%20Report.md)
   - [15331238-BeAShper](https://blog.csdn.net/beashaper_/article/details/80871901)
   - [15331229-longjj](https://www.zybuluo.com/longj/note/1198045)
   - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
   - [15331251-Arururururu](https://github.com/Arururururu/SAD/blob/master/X3-final-report.md)
-- XX 建模练习
-  - [XX1 Google Tranlate 应⽤](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/XX1-google-translate-app)
-  - [XX2 建模要求](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/XX2-modeling-requirements)
-  - [XX3 建模者答案与评价](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/XX3-modeling-answer)
-
-![](images/22.jpg)
