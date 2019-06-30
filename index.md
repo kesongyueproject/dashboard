@@ -31,7 +31,7 @@
   - [Iteration 3 meeting (2018/06/30)](X1-iteration3-meeting.md)
 - [X2 Tech/Work Report](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X2-techwork-report)
 - X3 Final Report
-  - [15331253-ECer23](https://www.jianshu.com/p/edae2a252471)
+  - [16340100-liusha0226](16340100_Final%20Report.md)
   - [15331238-BeAShper](https://blog.csdn.net/beashaper_/article/details/80871901)
   - [15331229-longjj](https://www.zybuluo.com/longj/note/1198045)
   - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
