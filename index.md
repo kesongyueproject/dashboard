@@ -45,4 +45,4 @@
   - [XX2 建模要求](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/XX2-modeling-requirements)
   - [XX3 建模者答案与评价](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/XX3-modeling-answer)
 
-![](11.png)
+![](11.jpg)
