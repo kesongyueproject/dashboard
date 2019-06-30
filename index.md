@@ -20,15 +20,15 @@
   - 7.4 [软件架构文档](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-04-software-architecture-document)
   - 7.5 [用例设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-05-usecase-design)
 - 8、生产规范与指南
-  - 8.1 [代码规范](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/08-01-coding-standard)
-  - 8.2 [REST API设计规范](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/08-02-RESTful-api-design-standard)
+  - 8.1 [代码规范](08-01-coding-standard.md)
+  - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard.md)
   - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/08-03-relationship-between-ECB-framework-directory-design-logic-archit)
-  - 8.4 [部署文档](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/08-04-deployment-doc)
+  - 8.4 [部署文档](08-04-deployment-doc.md)
 - X1 meet_recording
-  - [Inception meeting (2018/03/23)](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X1-inception-meeting)
-  - [Iteration 1 meeting (2018/04/09)](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X1-iteration1-meeting)
-  - [Iteration 2 meeting (2018/05/09)](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X1-iteration2-meeting)
-  - [Iteration 3 meeting (2018/06/30)](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X1-iteration3-meeting)
+  - [Inception meeting (2018/03/23)](X1-inception-meeting.md)
+  - [Iteration 1 meeting (2018/04/09)](X1-iteration1-meeting.md)
+  - [Iteration 2 meeting (2018/05/09)](X1-iteration2-meeting.md)
+  - [Iteration 3 meeting (2018/06/30)](X1-iteration3-meeting.md)
 - [X2 Tech/Work Report](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X2-techwork-report)
 - X3 Final Report
   - [15331253-ECer23](https://www.jianshu.com/p/edae2a252471)
