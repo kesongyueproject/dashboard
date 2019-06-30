@@ -15,11 +15,7 @@
 - 7、Design 设计
   - 7.1 UI design UI 设计
     - [XX 用例 UI 设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-01-01-XX-ui-design)
-  - 7.2 Database design 数据库设计
-    - 7.2.1 [用户及权限系统数据库设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-02-01-database-design)
-    - 7.2.2 [数据库ER模型图](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-02-02-database-er-model)
-    - 7.2.3 XX子系统数据课设计
-    - 7.2.x [第三方数据评审结果](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-02-03-%E7%AC%AC%E4%B8%89%E6%96%B9%E6%95%B0%E6%8D%AE%E8%AF%84%E5%AE%A1%E7%BB%93%E6%9E%9C)
+  - 7.2 [Database design 数据库设计](07-02-database-design.md)
   - 7.3 [API 设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-03-API)
   - 7.4 [软件架构文档](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-04-software-architecture-document)
   - 7.5 [用例设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-05-usecase-design)
