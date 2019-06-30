@@ -1,10 +1,15 @@
 # 目录
 
 - 1、[About 项目规划](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/01-about)
+
 - 2、[Team profile 团队组建](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/02-team-profile)
+
 - 3、[Investigation 项目前期调研](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/03-investigation)
+
 - 4、[Vision 项目愿景](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/04-vision)
+
 - 5、[Product Backlog 产品特性](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/05-product-backlog)
+
 - 6、Requirement specification 需求规格说明
   - 6.1 [Usecase Diagram](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-01-usecase-diagram)
   - 6.2 [Use Cases 用例+活动图](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-02-use-cases)
@@ -12,6 +17,7 @@
   - 6.4 [State Model 状态模型](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-04-state-model)
   - 6.5 [System Sequence Diagram 功能模型](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-05-system-sequence-diagram)
   - 6.6 [Supplementary Requirements 补充性说明](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-06-supplementary-requirements)
+
 - 7、Design 设计
   - 7.1 UI design UI 设计
     - [XX 用例 UI 设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-01-01-XX-ui-design)
@@ -19,22 +25,29 @@
   - 7.3 [API 设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-03-API)
   - 7.4 [软件架构文档](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-04-software-architecture-document)
   - 7.5 [用例设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-05-usecase-design)
+
 - 8、生产规范与指南
   - 8.1 [代码规范](08-01-coding-standard.md)
   - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard.md)
   - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/08-03-relationship-between-ECB-framework-directory-design-logic-archit)
   - 8.4 [部署文档](08-04-deployment-doc.md)
+
 - X1 meet_recording
   - [Inception meeting (2019/03/26)](X1-inception-meeting.md)
   - [Iteration 1 meeting (2019/04/19)](X1-iteration1-meeting.md)
   - [Iteration 2 meeting (2019/05/09)](X1-iteration2-meeting.md)
   - [Iteration 3 meeting (2019/06/10)](X1-iteration3-meeting.md)
+
 - X2 [KANBAN](X2-KANBAN.md)
+
 - X3 [auditing-records](X3-auditing-records.md)
+
 - [X4 Tech/Work Report](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X2-techwork-report)
+
 - X5 Final Report
+
+  + [小组总结报告](小组总结指南.md)
+
   - [16340100-liusha0226](16340100_Final%20Report.md)
-  - [15331238-BeAShper](https://blog.csdn.net/beashaper_/article/details/80871901)
-  - [15331229-longjj](https://www.zybuluo.com/longj/note/1198045)
-  - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
-  - [15331251-Arururururu](https://github.com/Arururururu/SAD/blob/master/X3-final-report.md)
+  - [16340101-kesongyue](X4-16340101-kesongyue.md)
+
