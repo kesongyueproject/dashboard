@@ -12,4 +12,4 @@
 ## EER图
 * 工具：mysql workbench
 
-![](db_eer.jpg)
+![](images/db_eer.jpg)
