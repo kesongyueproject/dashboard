@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 挣闲钱 系统分析与设计
 
-You can use the [editor on GitHub](https://github.com/kesongyueproject/dashboard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 提交主要事项
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ `XX-XX-XX-demo.md` 使用`-`来进行连接，不要带有空格或下划线
++ 前面先通过数字表明在`index.md`中的结构位置
++ 图片路径，把图片放到`images`文件夹下，把文档放在根目录下，直接用路径`images/xx.png`就可以了
 
-### Markdown
+#### 提交流程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kesongyueproject/dashboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ 在根目录下写好文档，命名写好
++ 修改index.md来索引新加入的文件（直接用路径`xx-xx-xx.md`就可以了）
++ 然后`git add.`,`git commit -m "xxx"`, `git push`
