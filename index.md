@@ -1,14 +1,14 @@
 # 目录
 
-- 1、[About 项目规划](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/01-about)
+- 1、[About 项目规划](01-about.md)
 
-- 2、[Team profile 团队组建](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/02-team-profile)
+- 2、[Team profile 团队组建](02-Team-profile.md)
 
-- 3、[Investigation 项目前期调研](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/03-investigation)
+- 3、[Investigation 项目前期调研](03-Investigation.md)
 
-- 4、[Vision 项目愿景](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/04-vision)
+- 4、[Vision 项目愿景](04-Vision.md)
 
-- 5、[Product Backlog 产品特性](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/05-product-backlog)
+- 5、[Product Backlog 产品特性](05-Product-Backlog.md)
 
 - 6、Requirement specification 需求规格说明
   - 6.1 [Usecase Diagram](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-01-usecase-diagram)
@@ -42,12 +42,16 @@
 
 - X3 [auditing-records](X3-auditing-records.md)
 
-- [X4 Tech/Work Report](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/X2-techwork-report)
+- X4 Tech/Work Report
+
+  + [16340101-微信小程序开发——Tab布局and页面跳转](https://blog.csdn.net/ke1950523491/article/category/8902342)
+
+  + [16340101-小程序之UI控件,页面布局和网络访问](https://blog.csdn.net/ke1950523491/article/details/94359538)
 
 - X5 Final Report
 
-  + [小组总结报告](小组总结指南.md)
+  + [小组分工与贡献率说明](X4-group-report.md)
 
-  - [16340100-liusha0226](16340100_Final%20Report.md)
+  - [16340100-liusha0226](X4-16340100-Final-Report.md)
   - [16340101-kesongyue](X4-16340101-kesongyue.md)
 
