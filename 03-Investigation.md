@@ -82,7 +82,7 @@ tags:
 >
 >   1、请问你的专业是？
 >
->   ![问题1](images\question_1.png)
+>   ![问题1](images/question_1.png)
 >
 >   2、你是否有发布问卷的经历？
 >
