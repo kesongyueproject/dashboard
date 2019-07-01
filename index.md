@@ -16,20 +16,20 @@
   - 6.3 [Domian Model 领域模型](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-03-domain-model)
   - 6.4 [State Model 状态模型](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-04-state-model)
   - 6.5 [System Sequence Diagram 功能模型](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-05-system-sequence-diagram)
-  - 6.6 [Supplementary Requirements 补充性说明](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-06-supplementary-requirements)
-
+  
 - 7、Design 设计
+  
   - 7.1 UI design UI 设计
     - [XX 用例 UI 设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-01-01-XX-ui-design)
   - 7.2 [Database design 数据库设计](07-02-database-design.md)
   - 7.3 [API 设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-03-API)
   - 7.4 [软件架构文档](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-04-software-architecture-document)
-  - 7.5 [用例设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-05-usecase-design)
-
+- 7.5 [用例设计](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/07-05-usecase-design)
+  
 - 8、生产规范与指南
   - 8.1 [代码规范](08-01-coding-standard.md)
   - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard.md)
-  - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/08-03-relationship-between-ECB-framework-directory-design-logic-archit)
+  - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/08-03-relationship-between-ECB-framework-directory-design-logic-archit)
   - 8.4 [部署文档](08-04-deployment-doc.md)
 
 - X1 meet_recording
@@ -45,8 +45,8 @@
 - X4 Tech/Work Report
 
   + [16340101-微信小程序开发——Tab布局and页面跳转](https://blog.csdn.net/ke1950523491/article/category/8902342)
-
-  + [16340101-小程序之UI控件,页面布局和网络访问](https://blog.csdn.net/ke1950523491/article/details/94359538)
++ [16340101-小程序之UI控件,页面布局和网络访问](https://blog.csdn.net/ke1950523491/article/details/94359538)
+  + [16340099-微信小程序开发](https://blog.csdn.net/kaysarks/article/details/89511069)
 
 - X5 Final Report
 
@@ -54,4 +54,5 @@
 
   - [16340100-liusha0226](X4-16340100-Final-Report.md)
   - [16340101-kesongyue](X4-16340101-kesongyue.md)
+  - [16340099-kaysar132](X4-16340099-kaysar.md)
 
