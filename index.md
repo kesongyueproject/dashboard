@@ -45,9 +45,8 @@
 - X4 Tech/Work Report
 
   + [16340101-微信小程序开发——Tab布局and页面跳转](https://blog.csdn.net/ke1950523491/article/category/8902342)
-+ [16340101-小程序之UI控件,页面布局和网络访问](https://blog.csdn.net/ke1950523491/article/details/94359538)
+  + [16340101-小程序之UI控件,页面布局和网络访问](https://blog.csdn.net/ke1950523491/article/details/94359538)
   + [16340099-微信小程序开发](https://blog.csdn.net/kaysarks/article/details/89511069)
-
 - X5 Final Report
 
   + [小组分工与贡献率说明](X4-group-report.md)
