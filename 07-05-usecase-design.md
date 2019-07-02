@@ -10,11 +10,11 @@
 
 - 发布任务
 
-  ![7-5-2](F:/%E6%96%87%E6%A1%A3/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/dashboard/images/7-5-2.png)
+  ![7-5-2](/images/7-5-2.png)
 
 - 接受任务
 
-  ![7-5-1](F:/%E6%96%87%E6%A1%A3/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/dashboard/images/7-5-1.png)
+  ![7-5-1](/images/7-5-1.png)
 
   
 
