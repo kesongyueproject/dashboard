@@ -11,11 +11,11 @@
 - 5、[Product Backlog 产品特性](05-Product-Backlog.md)
 
 - 6、Requirement specification 需求规格说明
-  - 6.1 [Usecase Diagram](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-01-usecase-diagram)
-  - 6.2 [Use Cases 用例+活动图](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-02-use-cases)
-  - 6.3 [Domian Model 领域模型](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-03-domain-model)
-  - 6.4 [State Model 状态模型](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-04-state-model)
-  - 6.5 [System Sequence Diagram 功能模型](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/06-05-system-sequence-diagram)
+  - 6.1 [Usecase Diagram](06-Usecase-Diagram.md)
+  - 6.2 [Use Cases 用例+活动图](06-Use-case.md)
+  - 6.3 [Domian Model 领域模型](06-Domain-Model.md)
+  - 6.4 [State Model 状态模型](06-State-Model.md)
+  - 6.5 [System Sequence Diagram 功能模型](06-System-Sequence-Diagram.md)
   
 - 7、Design 设计
   
@@ -28,7 +28,7 @@
 - 8、生产规范与指南
   - 8.1 [代码规范](08-01-coding-standard.md)
   - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard.md)
-  - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](https://github.com/rookies-sysu/Dashboard/blob/gh-pages/08-03-relationship-between-ECB-framework-directory-design-logic-archit)
+  - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-架构设计-详细设-BCE方法-到应用程序框架映射指南.md)
   - 8.4 [部署文档](08-04-deployment-doc.md)
 
 - X1 meet_recording
